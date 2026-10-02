@@ -11,8 +11,8 @@ regulatory text, tests them numerically and explains the results.
 ---
 
 ### 📈 Corporate finance
-**| Project | What it does | Built on |**
-
+| Project | What it does | Built on |
+|---|---|---|
 | [corporate-valuation-dcf-lbo](https://github.com/matisdnl/corporate-valuation-dcf-lbo) | Quality of earnings, WACC, DCF, trading comps, LBO and **IAS 36** goodwill impairment test on a fictional company, exported to Excel | Modigliani-Miller, CAPM, Hamada, McKinsey *Valuation*, **IAS 36** |
 
 ### 📈 Derivatives
