@@ -13,11 +13,11 @@ regulatory text, tests them numerically and explains the results.
 ### 📈 Corporate finance
 | Project | What it does | Built on |
 |---|---|---|
-| [CORPORATE VALUATION] | | |
+| CORPORATE VALUATION | | |
 
 ### 📈 Derivatives
 | Project | What it does | Built on |
 |---|---|---|
-| [OPTION PRICING](https://github.com/matisdnl/OPTION PRICING) | Black-Scholes, Binomial Tree, Monte Carlo | Black-Scholes (1973), Cox-Ross-Rubinstein (1979) |
+| OPTION PRICING (https://github.com/matisdnl/OPTION PRICING) | Black-Scholes, Binomial Tree, Monte Carlo | Black-Scholes (1973), Cox-Ross-Rubinstein (1979) |
 
 **Tools:** Python (NumPy, SciPy, pandas, Matplotlib, scikit-learn) · Excel / VBA 
